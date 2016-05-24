@@ -1,7 +1,7 @@
 ---
 layout: default
-titel: Fisketorvets Motorbådklub
-overskrift: En oase ved vandet
+title: Fisketorvets Motorbådklub
+header: En oase ved vandet
 ---
 
 
@@ -15,14 +15,3 @@ Fisketorvets Motorbådklub *(FMK)* i Frederiksholmsløbet er et hyggeligt hjørn
 * Mulighed for eget redskabsskur
 * El fra bro
 * Vand fra bro i sommerperioden
-
-
-## Kontakt FMK
-
-Kontakt os på følgende adresse:
-
-Fisketorvets Motorbådklub
-
-Elværksvej 9
-
-2450 København SV
