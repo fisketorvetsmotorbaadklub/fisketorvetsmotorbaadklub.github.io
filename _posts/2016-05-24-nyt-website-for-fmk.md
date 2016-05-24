@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Nyt website for FMK kører på Github"
+titel: "Nyt website for FMK"
+overskrift: "Nyt website er etableret"
 date: 2016-05-24
 ---
 
