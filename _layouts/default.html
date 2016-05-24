@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>{{ page.title }}</title>
+			<title>{{ page.titel }}</title>
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
-		    <nav>
-                <a href="/">FMK</a>
-                <a href="/blog">Blog</a>
-                </ul>
-			</nav>
+            <header>
+                <nav>
+                    <a href="/">FMK</a>
+                    <a href="/blog">Blog</a>
+                    </ul>
+                </nav>
+                <h1>{{ page.overskrift }}</h1>
+			</header>
 			<article class="container">
 			
 			{{ content }}
 			
 			</article>
 			<footer>
-				<p>{{ description }}</p>
+			    <h2>Kontakt os</h2>
 				<address>
                     Fisketorvets Motorbådklub<br>
                     Elværksvej 9<br>
