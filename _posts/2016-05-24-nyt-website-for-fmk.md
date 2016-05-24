@@ -1,7 +1,7 @@
 ---
 layout: post
-titel: Nyt website for FMK
-overskrift: Nyt website er etableret
+title: Nyt website for FMK
+header: Nyt website er etableret
 date: 2016-05-24
 ---
 
