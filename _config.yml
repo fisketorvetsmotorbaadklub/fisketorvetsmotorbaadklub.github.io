@@ -3,6 +3,7 @@ name: Fisketorvets Motorbådklub
 title: Fisketorvets Motorbådklub
 description: > # this means to ignore newlines until "baseurl:"
   Information og kontaktoplysninger for Fisketorvets Motorbådklub (FMK).
+permalink: /blog/:year/:month/:day/:title
 url: "http://fisketorvetsmotorbaadklub.github.io" # the base hostname & protocol for your site
 github_username:  FMKlub
 markdown: kramdown
