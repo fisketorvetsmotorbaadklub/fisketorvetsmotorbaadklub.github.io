@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Fisketorvets Motorbådklub
+titel: Fisketorvets Motorbådklub
+overskrift: En oase ved vandet
 ---
 
-
-# En oase ved vandet - midt i København
 
 Fisketorvets Motorbådklub *(FMK)* i Frederiksholmsløbet er et hyggeligt hjørne af maritimt liv, som skal opleves.
 
