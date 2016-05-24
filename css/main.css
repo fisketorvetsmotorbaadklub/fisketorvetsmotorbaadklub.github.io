@@ -9,6 +9,7 @@ body {
   flex-flow: column nowrap;
   justify-content: space-between;
   align-items: center;
+  min-height: 100%;
 }
 
 a,
