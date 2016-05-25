@@ -93,11 +93,12 @@ footer {
     
     article .post,
     article .page {
+        position: relative;
         text-align: left;
         background-color: #fff;
         width: 40rem;
         margin: -10rem auto 0;
-        padding: 2rem;
+        padding: 4rem;
     }
     
     .nice-header {
