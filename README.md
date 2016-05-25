@@ -5,7 +5,7 @@ Website med information om Fisketorvets Motorbådklub
 
 ## Redigering af indhold
 
-Forsidens indhold findes i filen ´index.md´. 
+Forsidens indhold er det seneste indlæg under ´_posts´. 
 
 Alle filer, som ender på ´.md´ skrives med [Markdown notation.](https://help.github.com/articles/basic-writing-and-formatting-syntax/) Det er nemt nok.
 
