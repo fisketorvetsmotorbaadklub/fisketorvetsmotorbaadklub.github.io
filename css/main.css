@@ -49,9 +49,23 @@ footer {
   padding: 2rem;
 }
 
-.img-title {
+.nice-header {
+  position: relative;
+  margin: 0 -2rem;
+}
+
+.nice-header--title {
+  position: absolute;
+  bottom: 2rem;
+  left: 2rem;
+  z-index: 2;
   display: block;
   color: #fff;
   font-weight: normal;
   text-shadow: 0 0 rgba(0,0,0,0.5);
+}
+
+.nice-header--img {
+  width: 100%;
+  height: auto;
 }
