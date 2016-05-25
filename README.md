@@ -14,8 +14,8 @@ Alle filer, som ender på ´.md´ skrives med [Markdown notation.](https://help.
 
 ## ToDo
 
-[ ] Indsætte link til FB-side: https://www.facebook.com/pages/Fisketorvets-Motorb%C3%A5dsklub-FMK/157238980994747
-[ ] Insætte blogindlæg om høring-video
-[ ] Indsætte seneste blogindlæg på forside
-[ ] Indsætte vedtægter osv
-[ ] Indsætte kort under kontaktoplysninger
+- [ ] Indsætte link til FB-side: https://www.facebook.com/pages/Fisketorvets-Motorb%C3%A5dsklub-FMK/157238980994747
+- [ ] Insætte blogindlæg om høring-video
+- [ ] Indsætte seneste blogindlæg på forside
+- [ ] Indsætte vedtægter osv
+- [ ] Indsætte kort under kontaktoplysninger
