@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<p class="meta">{{ page.date | date_to_string }}</p>
-
 <header class="nice-header">
   <h1 class="nice-header--title">{{ page.display-title }}</h1>
   <img class="nice-header--img" src="{{ page.image }}" alt="">
 </header>
+
+<p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
   {{ content }}
