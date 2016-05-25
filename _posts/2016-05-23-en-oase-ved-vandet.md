@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Fisketorvets Motorbådklub
+date: 2016-05-23
 display-title: En oase ved vandet
 image: /img/boats1.jpg
 ---
