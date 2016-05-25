@@ -20,6 +20,6 @@ Pressemeddelelse er vedhæftet. Desuden er vedhæftet Fisketorvets Motorbådsklu
 
 Øvrig presse vedr. sagen kan findes her:
 
-[](http://politiken.dk/ibyen/byliv/ECE3196258/koebenhavns-kommune-spaerrer-maaske-vigtigt-havneloeb-for-andet-end-smaabaade/)
+[Københavns kommune spærre måske vigtigt havneløb for andet end småbåde](http://politiken.dk/ibyen/byliv/ECE3196258/koebenhavns-kommune-spaerrer-maaske-vigtigt-havneloeb-for-andet-end-smaabaade/) - *Politiken.dk*
 
-[](http://www.tv2lorry.dk/nyheder/02-05-2016/2227/badejere-utilfredse-med-ny-bro?autoplay=1#player)
+[Bådejere utilfredse med ny bro](http://www.tv2lorry.dk/nyheder/02-05-2016/2227/badejere-utilfredse-med-ny-bro?autoplay=1#player) - *TV2 Lorry*
