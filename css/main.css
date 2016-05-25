@@ -48,3 +48,15 @@ footer {
   color: #ddd;
   padding: 2rem;
 }
+
+.img-title {
+  display: block;
+  width: 100%;
+  min-height: 6rem;
+  color: #fff;
+  padding: 2rem;
+  box-sizing: border-box;
+  background-position: center center;
+  background-size: auto 100%;
+  margin: 0 -2rem;
+}
