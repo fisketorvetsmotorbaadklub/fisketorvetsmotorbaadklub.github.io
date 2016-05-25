@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Nyt website for FMK
-header: Nyt website er etableret
 date: 2016-05-24
 ---
+
+# Nyt website for FMK
 
 *Nu bliver der rykket på det*
 
