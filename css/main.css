@@ -51,10 +51,10 @@ footer {
 
 .img-title {
   display: block;
-  width: 100%;
-  min-height: 6rem;
+  min-width: 100%;
+  min-height: 10rem;
   color: #fff;
-  padding: 2rem;
+  padding: 4rem 2rem 2rem;
   box-sizing: border-box;
   background-position: center center;
   background-size: auto 100%;
