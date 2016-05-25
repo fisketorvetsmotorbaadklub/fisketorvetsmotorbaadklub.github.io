@@ -51,15 +51,7 @@ footer {
 
 .img-title {
   display: block;
-  width: 100%;
-  height: auto;
   color: #fff;
-  padding: 4rem 2rem 2rem;
-  box-sizing: border-box;
-  background-position: center center;
-  background-size: auto 100%;
-  margin: 0 -2rem;
   font-weight: normal;
   text-shadow: 0 0 rgba(0,0,0,0.5);
-  background-repeat: no-repeat;
 }
