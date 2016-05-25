@@ -41,20 +41,6 @@ nav a:active {
 article {
   background-color: #fff;
   padding: 2rem;
-  position: relative;
-}
-
-article h1:first-child {
-  position: absolute;
-  top: 3rem;
-  z-index: 2;
-  color: #fff;
-}
-
-article img {
-  width: 100%;
-  height: auto;
-  min-height: 10rem;
 }
 
 footer {
