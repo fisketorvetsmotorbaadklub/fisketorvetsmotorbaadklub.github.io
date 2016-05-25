@@ -2,9 +2,9 @@
 layout: post
 title: Lokalplan for Frederiksholmløb udsættes for politisk fejl
 date: 2016-05-25
+display-title: Politisk fejl truer det maritime miljø
+image: /img/boats1.jpg
 ---
-
-# Politisk fejl truer det maritime miljø
 
 En ændring i lokalplanen kommer til at betyde, at der anlægges en bro mellem Enghave brygge og Teglholmen i Københavns Sydhavn, som højst skal være 3 meter over vandoverfladen og ikke kunne åbnes. Dette er en trussel mod mange af FMKs bådejere, der således vil blive indespærret i løbet. 
 
