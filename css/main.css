@@ -87,26 +87,6 @@ footer {
 
 @media screen and (min-width: 45em) {
     
-    article .post,
-    article .page {
-        position: relative;
-        text-align: left;
-        background-color: #fff;
-        width: 40rem;
-        margin: -10rem auto 0;
-        padding: 4rem;
-    }
     
-    .nice-header {
-        text-align: center;
-    }
-    
-    .nice-header--title {
-        font-size: 4em;
-        display: block;
-        margin: auto;
-        right: 0;
-        top: 10rem;
-    }
      
 }
