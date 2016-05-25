@@ -84,3 +84,14 @@ footer {
   margin: 0;
   padding: 1rem 0;
 }
+
+@media screen and (min-width: 45em) {
+    
+    .nice-header--title {
+        margin: 6rem auto;
+        font-size: 3em;
+        left: auto;
+        bottom: auto;
+    }
+     
+}
