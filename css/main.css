@@ -59,18 +59,22 @@ footer {
 .nice-header {
   position: relative;
   margin: -2rem -2rem 0;
+  overflow: hidden;
+  max-height: 33vh;
+  width: 100%;
+  text-align: center;
 }
 
 .nice-header--title {
   display: block;
   position: absolute;
-  bottom: 1rem;
-  left: 2rem;
+  margin: 0 auto;
   z-index: 1;
   color: #fff;
   font-weight: normal;
   text-shadow: 0 0 0.5rem rgba(0,0,0,0.5);
   font-size: 1.5em;
+  top: 4rem;
 }
 
 .nice-header--img {
