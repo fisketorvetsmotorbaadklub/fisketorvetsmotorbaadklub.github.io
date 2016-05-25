@@ -56,13 +56,10 @@ footer {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
+  min-height: 10rem;
 }
 
 .nice-header--title {
-  position: absolute;
-  bottom: 2rem;
-  left: 2rem;
-  z-index: 2;
   display: block;
   color: #fff;
   font-weight: normal;
