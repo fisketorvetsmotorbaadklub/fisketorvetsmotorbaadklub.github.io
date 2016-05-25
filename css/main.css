@@ -87,10 +87,6 @@ footer {
 
 @media screen and (min-width: 45em) {
     
-    article {
-        text-align: center;
-    }
-    
     article .post,
     article .page {
         position: relative;
@@ -110,7 +106,7 @@ footer {
         display: block;
         margin: auto;
         right: 0;
-        top: 25%;
+        top: 10rem;
     }
      
 }
