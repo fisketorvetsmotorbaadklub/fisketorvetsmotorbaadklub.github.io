@@ -60,4 +60,5 @@ footer {
   background-size: auto 100%;
   margin: 0 -2rem;
   font-weight: normal;
+  text-shadow: 0 0 rgba(0,0,0,0.33);
 }
