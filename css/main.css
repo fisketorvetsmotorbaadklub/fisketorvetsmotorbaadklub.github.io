@@ -22,17 +22,6 @@ a:active {
   color: #36c;
 }
 
-header {
-  background: url(/img/IMG_20160523_210002478.jpg) no-repeat center center #000;
-  background-size: 100% auto;
-}
-
-header h1 {
-  color: #fff;
-  margin: 0;
-  padding: 6rem 2rem 3rem;
-}
-
 nav {
   background-color: rgba(0,0,0,0.2);
 }
