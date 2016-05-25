@@ -41,12 +41,20 @@ nav a:active {
 article {
   background-color: #fff;
   padding: 2rem;
+  position: relative;
 }
 
-article img + h1 {
-  position: relative;
+article h1:first-child {
+  position: absolute;
+  top: 3rem;
+  z-index: 2;
   color: #fff;
-  bottom: 4rem;
+}
+
+article h1 + img {
+  position: absolute;
+  top: 0;
+  z-index: 1;
 }
 
 footer {
