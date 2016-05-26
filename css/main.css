@@ -47,8 +47,9 @@ article {
   flex: 1;
 }
 
-article .post,
-article .page {
+.post,
+.page, 
+.content {
   padding: 2rem;
   background-color: #fff;
 }
