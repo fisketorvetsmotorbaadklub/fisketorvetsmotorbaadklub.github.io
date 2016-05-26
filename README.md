@@ -19,4 +19,6 @@ Alle filer, som ender på ´.md´ skrives med [Markdown notation.](https://help.
 - [x] Indsætte seneste blogindlæg på forside
 - [ ] Indsætte vedtægter osv
 - [ ] Indsætte kort under kontaktoplysninger
-- [ ] Forbedre styles ift responsive layout
+- [x] Forbedre styles ift responsive layout
+- [ ] Nicify blogliste
+- [ ] Mere info på forside/footer
