@@ -92,7 +92,8 @@ footer {
     footer,
     .page,
     .post,
-    .nice-header {
+    .nice-header,
+    .content {
       text-align: center;
     }
     
@@ -100,7 +101,8 @@ footer {
     .footer-container,
     .page-container,
     .post-container,
-    .nice-header--title {
+    .nice-header--title,
+    .content-container {
       width: 40rem;
       margin: 0 auto;
       text-align: left;
