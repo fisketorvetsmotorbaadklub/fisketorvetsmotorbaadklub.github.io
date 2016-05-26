@@ -90,14 +90,16 @@ footer {
     nav,
     footer,
     .page,
-    .post {
+    .post,
+    .nice-header {
       text-align: center;
     }
     
     .nav-container,
     .footer-container,
     .page-container,
-    .post-container {
+    .post-container,
+    .nice-header--title {
       width: 40rem;
       margin: 0 auto;
       text-align: left;
