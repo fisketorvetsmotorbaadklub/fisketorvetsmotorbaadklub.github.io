@@ -1,17 +1,50 @@
----
-layout: page
-title: FMK - Fisketorvets Motorbådklub
-display-title: Praktiske oplysninger om Fisketorvets Motorbådklub
-image: /img/rudder.jpg
----
+<!DOCTYPE html>
+    <html lang="da">
+        <head>
+            <title>FMK overblik</title>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+            <meta http-equiv="x-ua-compatible" content="ie=edge">
+            <link rel="stylesheet" type="text/css" href="/css/normalize.css">
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+            <nav>
+                <div class="nav-container">
+                    <a href="/">FMK</a>
+                    <a href="/blog">Blog</a>
+                    <a href="/om-fmk">Info</a>
+                </div>
+            </nav>
+			<article>
 
-FMK er en klub for motorbådejere, som ligger på Elværksvej bag H.C. Ørsteds-værket i Københavns Sydhavn. 
+                FMK er en klub for motorbådejere, som ligger på Elværksvej bag H.C. Ørsteds-værket i Københavns Sydhavn. 
+			    
+                <h2>Nyt fra FMK</h2>
 
-## Nyt fra FMK
+                {% for post in site.posts | first %}
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                    {{ post.excerpt }}
+                {% endfor %}
 
-{% for post in site.posts | first %}
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    {{ post.excerpt }}
-{% endfor %}
-
-Følg os på [Facebook.](https://www.facebook.com/pages/Fisketorvets-Motorb%C3%A5dsklub-FMK/157238980994747)
+                <a href="https://www.facebook.com/pages/Fisketorvets-Motorb%C3%A5dsklub-FMK/157238980994747">Følg os på Facebook.</a>
+			
+			</article>
+			<footer>
+			    <div class="footer-container">
+    			    <h2>Kontakt os</h2>
+    				<address>
+                        Fisketorvets Motorbådklub<br>
+                        Elværksvej 9<br>
+                        2450 København SV<br>
+                        Danmark<br>
+                        fmk-kbh at hotmail.dk 
+                    </address>
+    				<p>
+    					Github: <a href="https://github.com/FMKlub">github.com/FMKlub</a><br>
+    				    Facebook: <a href="https://www.facebook.com/pages/Fisketorvets-Motorb%C3%A5dsklub-FMK/157238980994747">www.facebook.com/pages/Fisketorvets-Motorbådsklub-FMK</a>
+    				</p>
+				</div>
+			</footer>
+		</body>
+	</html>
