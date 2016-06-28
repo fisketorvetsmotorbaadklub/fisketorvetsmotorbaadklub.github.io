@@ -1,4 +1,17 @@
 ---
+layout: page
+title: FMK - Fisketorvets Motorbådklub
+display-title: Praktiske oplysninger om Fisketorvets Motorbådklub
+image: /img/rudder.jpg
 ---
 
-{{ site.posts | first }}
+FMK er en klub for motorbådejere, som ligger på Elværksvej bag H.C. Ørsteds-værket i Københavns Sydhavn. 
+
+## Nyt fra FMK
+
+{% for post in site.posts | first %}
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    {{ post.excerpt }}
+{% endfor %}
+
+Følg os på [Facebook.](https://www.facebook.com/pages/Fisketorvets-Motorb%C3%A5dsklub-FMK/157238980994747)
